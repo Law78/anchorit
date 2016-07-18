@@ -1,0 +1,28 @@
+{
+  "name": "anchorit",
+  "version": "0.0.1",
+  "description": "Usage it for create your anchor link in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Law78/anchorit.git"
+  },
+  "keywords": [
+    "Anchor",
+    "HTML",
+    "React",
+    "Link"
+  ],
+  "author": "Lorenzo Franceschini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Law78/anchorit/issues"
+  },
+  "homepage": "https://github.com/Law78/anchorit#readme",
+  "dependencies": {
+    "css.escape": "^1.5.0"
+  }
+}
